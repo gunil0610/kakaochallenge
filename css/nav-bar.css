@@ -1,7 +1,9 @@
 .nav {
+  color: #facd66;
+  background-color: #ad262d;
   position: fixed;
   width: 100%;
-  background-color: #fcfcfc;
+  /* background-color: #fcfcfc; */
   padding: 20px 50px;
   left: 0px;
   bottom: 0px;
@@ -27,7 +29,8 @@
   right: -7px;
   font-size: 10px;
   color: white;
-  background-color: #dc5d46;
+  /* background-color: #67c7eb; */
+  background-color: #1747c4;
   width: 18px;
   height: 18px;
   display: flex;
