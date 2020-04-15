@@ -9,6 +9,14 @@
   z-index: 10;
 }
 
+.chats__list {
+  margin-bottom: 70px;
+}
+
+.chats__chat.chat {
+  margin-bottom: 30px;
+}
+
 .chat-screen {
   background-image: url("../images/chatBg.png");
   min-height: 150vh;
